@@ -19,15 +19,6 @@
 <br />
 <br />
 
-
-[![Mohsen's github stats](https://github-readme-stats.vercel.app/api?username=Mohsenpoureiny)](https://github.com/Mohsenpoureiny/github-readme-stats)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsenpoureiny&layout=compact)](https://github.com/Mohsenpoureiny/github-readme-stats)
-
-
-![Mohsen's view stats](https://komarev.com/ghpvc/?username=Mohsenpoureiny&color=blueviolet&style=flat)
-
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://iconarchive.com/download/i75878/martz90/circle/linkedin.ico" alt="linkedin"/>](https://www.linkedin.com/in/Mohsenpoureiny/)
 
