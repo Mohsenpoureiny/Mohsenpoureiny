@@ -1,8 +1,7 @@
 ### Hi there 👋
 ---
 
-- 🔭 I’m currently working on [Hamravesh](https://hamravesh.com/)
-- 🌱 I’m currently learning CEH
+- 🎨 I’m currently developing on [Ropo Moda](https://ropomoda.com/)
 - 👯 I’m looking to collaborate on JavaScript Projects
 
 
