@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-- 🎨 I’m currently developing [Ropo Moda](https://ropomoda.com/)
+- 🎨 I’m currently developing [Ropomoda](https://ropomoda.com/)
 - 👯 I’m looking to collaborate on JavaScript Projects
 
 
