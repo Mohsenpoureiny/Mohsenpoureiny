@@ -1,8 +1,8 @@
 ### Hi there 👋
 ---
 
-- 🎨 I’m currently developing [Kaktoos](https://kaktoos.me/)
-- 👯 I’m looking to collaborate on JavaScript Projects
+- 🌵 I’m currently developing [Kaktoos](https://kaktoos.me/)
+- 🎨 I’m looking to collaborate on JavaScript Projects
 
 
 
